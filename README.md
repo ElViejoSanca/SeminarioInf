@@ -25,7 +25,8 @@ Este fue pensado como una solución integradora a un proceso que actualmente se 
 Características principales:
 
 \-Permanencia de datos permitiendo administración de usuarios, sucursales, técnicos, tickets, ítems, etc.
--Creación de tickets de manera intuitiva por operadores de CX.
+
+\-Creación de tickets de manera intuitiva por operadores de CX.
 
 \-Conversión de tickets en Ordenes de servicio por operadores de Coordinación y Asistencia Tecnica.
 
