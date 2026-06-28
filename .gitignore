@@ -1,0 +1,5 @@
+*.class
+SIGIOST.jar
+manifest.txt
+META-INF/
+.vscode/launch.json
